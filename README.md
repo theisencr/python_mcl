@@ -5,6 +5,8 @@ described in http://www.library.uu.nl/digiarchief/dip/diss/1895620/inhoud.htm.
 
 This implementation is still in beta and is not yet optimized for large networks.
 
+This implementation was updated for Python 3.X as part of a submission for the [2016 Riot Games API Challenge](https://developer.riotgames.com/discussion/announcements/show/eoq3tZd1).
+
 ![example] (example.png)
 
 
